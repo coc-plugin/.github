@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="192" height="192" alt="coc-plugin" src="https://github.com/user-attachments/assets/0f54c9cb-a5cd-449b-9a32-22c81870ffc2" />
+  <img width="192" height="192" alt="coc-plugin" src="https://raw.githubusercontent.com/coc-plugin/.github/main/profile/icon.png" />
 </div>
 
 <p align="center">
