@@ -11,11 +11,7 @@
 **Core**
 
 - [coc-vscode-loader](https://github.com/coc-plugin/coc-vscode-loader) — JIT converter that loads VS Code extensions in coc.nvim without source modification.
-- [coc-vscode-registry](https://github.com/coc-plugin/coc-vscode-registry) — Registry of 130+ VS Code extensions available for the loader.
-
-**Ported extensions**
-
-Extensions transplanted from VS Code, including language servers for Nix, MLIR, Meson, BitBake, AWK, Graphviz, and more. Browse the full list in the [registry](https://github.com/coc-plugin/coc-vscode-registry).
+- [coc-vscode-registry](https://github.com/coc-plugin/coc-vscode-registry) — Registry of VS Code extensions available for the loader.
 
 ## Learn more
 
