@@ -1,6 +1,8 @@
 # Introduction
 
-![icon](https://github.com/user-attachments/assets/0f54c9cb-a5cd-449b-9a32-22c81870ffc2)
+<div align="center">
+  <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/0f54c9cb-a5cd-449b-9a32-22c81870ffc2" />
+</div>
 
 This organization hosts many [coc.nvim](https://github.com/neoclide/coc.nvim)
 extensions. Most of them are transplanted from responding
